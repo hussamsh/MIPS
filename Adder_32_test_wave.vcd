@@ -1,0 +1,231 @@
+$date
+     Apr 23, 2017       00:10:09
+$end
+
+$version
+ SystemC 2.3.1-Accellera --- Apr 19 2017 22:05:17
+$end
+
+$timescale
+     1 ps
+$end
+
+$scope module SystemC $end
+$var wire    1  aaaaa  A0       $end
+$var wire    1  aaaab  A1       $end
+$var wire    1  aaaac  A2       $end
+$var wire    1  aaaad  A3       $end
+$var wire    1  aaaae  A4       $end
+$var wire    1  aaaaf  A5       $end
+$var wire    1  aaaag  A6       $end
+$var wire    1  aaaah  A7       $end
+$var wire    1  aaaai  A8       $end
+$var wire    1  aaaaj  A9       $end
+$var wire    1  aaaak  A:       $end
+$var wire    1  aaaal  A;       $end
+$var wire    1  aaaam  A<       $end
+$var wire    1  aaaan  A=       $end
+$var wire    1  aaaao  A>       $end
+$var wire    1  aaaap  A?       $end
+$var wire    1  aaaaq  A@       $end
+$var wire    1  aaaar  AA       $end
+$var wire    1  aaaas  AB       $end
+$var wire    1  aaaat  AC       $end
+$var wire    1  aaaau  AD       $end
+$var wire    1  aaaav  AE       $end
+$var wire    1  aaaaw  AF       $end
+$var wire    1  aaaax  AG       $end
+$var wire    1  aaaay  AH       $end
+$var wire    1  aaaaz  AI       $end
+$var wire    1  aaaba  AJ       $end
+$var wire    1  aaabb  AK       $end
+$var wire    1  aaabc  AL       $end
+$var wire    1  aaabd  AM       $end
+$var wire    1  aaabe  AN       $end
+$var wire    1  aaabf  AO       $end
+$var wire    1  aaabg  B0       $end
+$var wire    1  aaabh  B1       $end
+$var wire    1  aaabi  B2       $end
+$var wire    1  aaabj  B3       $end
+$var wire    1  aaabk  B4       $end
+$var wire    1  aaabl  B5       $end
+$var wire    1  aaabm  B6       $end
+$var wire    1  aaabn  B7       $end
+$var wire    1  aaabo  B8       $end
+$var wire    1  aaabp  B9       $end
+$var wire    1  aaabq  B:       $end
+$var wire    1  aaabr  B;       $end
+$var wire    1  aaabs  B<       $end
+$var wire    1  aaabt  B=       $end
+$var wire    1  aaabu  B>       $end
+$var wire    1  aaabv  B?       $end
+$var wire    1  aaabw  B@       $end
+$var wire    1  aaabx  BA       $end
+$var wire    1  aaaby  BB       $end
+$var wire    1  aaabz  BC       $end
+$var wire    1  aaaca  BD       $end
+$var wire    1  aaacb  BE       $end
+$var wire    1  aaacc  BF       $end
+$var wire    1  aaacd  BG       $end
+$var wire    1  aaace  BH       $end
+$var wire    1  aaacf  BI       $end
+$var wire    1  aaacg  BJ       $end
+$var wire    1  aaach  BK       $end
+$var wire    1  aaaci  BL       $end
+$var wire    1  aaacj  BM       $end
+$var wire    1  aaack  BN       $end
+$var wire    1  aaacl  BO       $end
+$var wire    1  aaacm  cin       $end
+$var wire    1  aaacn  S0       $end
+$var wire    1  aaaco  S1       $end
+$var wire    1  aaacp  S2       $end
+$var wire    1  aaacq  S3       $end
+$var wire    1  aaacr  S4       $end
+$var wire    1  aaacs  S5       $end
+$var wire    1  aaact  S6       $end
+$var wire    1  aaacu  S7       $end
+$var wire    1  aaacv  S8       $end
+$var wire    1  aaacw  S9       $end
+$var wire    1  aaacx  S:       $end
+$var wire    1  aaacy  S;       $end
+$var wire    1  aaacz  S<       $end
+$var wire    1  aaada  S=       $end
+$var wire    1  aaadb  S>       $end
+$var wire    1  aaadc  S?       $end
+$var wire    1  aaadd  S@       $end
+$var wire    1  aaade  SA       $end
+$var wire    1  aaadf  SB       $end
+$var wire    1  aaadg  SC       $end
+$var wire    1  aaadh  SD       $end
+$var wire    1  aaadi  SE       $end
+$var wire    1  aaadj  SF       $end
+$var wire    1  aaadk  SG       $end
+$var wire    1  aaadl  SH       $end
+$var wire    1  aaadm  SI       $end
+$var wire    1  aaadn  SJ       $end
+$var wire    1  aaado  SK       $end
+$var wire    1  aaadp  SL       $end
+$var wire    1  aaadq  SM       $end
+$var wire    1  aaadr  SN       $end
+$var wire    1  aaads  SO       $end
+$var wire    1  aaadt  carry       $end
+$upscope $end
+$enddefinitions  $end
+
+$comment
+All initial values are dumped below at time 0 sec = 0 timescale units.
+$end
+
+$dumpvars
+1aaaaa
+1aaaab
+1aaaac
+1aaaad
+0aaaae
+1aaaaf
+1aaaag
+1aaaah
+0aaaai
+1aaaaj
+1aaaak
+1aaaal
+1aaaam
+1aaaan
+0aaaao
+1aaaap
+1aaaaq
+1aaaar
+0aaaas
+1aaaat
+1aaaau
+1aaaav
+1aaaaw
+1aaaax
+0aaaay
+1aaaaz
+1aaaba
+1aaabb
+0aaabc
+1aaabd
+1aaabe
+1aaabf
+0aaabg
+0aaabh
+0aaabi
+0aaabj
+0aaabk
+1aaabl
+0aaabm
+1aaabn
+0aaabo
+1aaabp
+0aaabq
+1aaabr
+0aaabs
+0aaabt
+0aaabu
+1aaabv
+0aaabw
+1aaabx
+0aaaby
+1aaabz
+0aaaca
+1aaacb
+0aaacc
+0aaacd
+0aaace
+1aaacf
+0aaacg
+1aaach
+0aaaci
+1aaacj
+0aaack
+1aaacl
+0aaacm
+1aaacn
+1aaaco
+1aaacp
+1aaacq
+0aaacr
+0aaacs
+0aaact
+1aaacu
+1aaacv
+0aaacw
+0aaacx
+1aaacy
+0aaacz
+0aaada
+1aaadb
+0aaadc
+0aaadd
+1aaade
+1aaadf
+0aaadg
+0aaadh
+1aaadi
+0aaadj
+0aaadk
+1aaadl
+0aaadm
+0aaadn
+1aaado
+1aaadp
+0aaadq
+0aaadr
+1aaads
+1aaadt
+$end
+
+#200000
+1aaabi
+0aaacp
+0aaacq
+1aaacr
+
+#400000
+1aaacm
+0aaacn
+0aaaco
+1aaacp
+
