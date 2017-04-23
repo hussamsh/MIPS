@@ -1,5 +1,4 @@
-src/Gate.o: ../src/Gate.cpp ../src/Testbenches/AND_OR_32_test.h \
- ../src/Testbenches/../AND_OR_32.h ../src/Testbenches/../AND_OR.h \
+src/AND_OR.o: ../src/AND_OR.cpp ../src/AND_OR.h \
  /usr/local/systemc/include/systemc.h /usr/local/systemc/include/systemc \
  /usr/local/systemc/include/sysc/kernel/sc_cmnhdr.h \
  /usr/local/systemc/include/sysc/packages/boost/config.hpp \
@@ -114,11 +113,7 @@ src/Gate.o: ../src/Gate.cpp ../src/Testbenches/AND_OR_32_test.h \
  /usr/local/systemc/include/sysc/utils/sc_vector.h \
  /usr/local/systemc/include/sysc/packages/boost/utility/enable_if.hpp
 
-../src/Testbenches/AND_OR_32_test.h:
-
-../src/Testbenches/../AND_OR_32.h:
-
-../src/Testbenches/../AND_OR.h:
+../src/AND_OR.h:
 
 /usr/local/systemc/include/systemc.h:
 
